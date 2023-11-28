@@ -1,0 +1,93 @@
+{
+	"journal": {
+		"title": "Bujo Demo",
+		"theme": DARK,
+		"custom-theme-param": {
+			"bgColor": "000000",
+			"textColor": "ffffff",
+			"textFont": "Arial"
+		},
+		"max-event": 10,
+		"max-task": 10,
+		"start-of-week": MONDAY,
+		"days": [
+			{
+				"day": MONDAY,
+				"essential-parts": [
+					{
+						"title": "Train to Boston",
+						"description": "Train ride back to Boston",
+						"category": NONE,
+						"start-time": 530,
+						"duration": 400
+					},
+				]
+			},
+			{
+				"day": TUESDAY,
+				"essential-parts": [
+				]
+			},
+			{
+				"day": WEDNESDAY,
+				"essential-parts": [
+					{
+						"title": "Finish BuJo",
+						"description": "Finish the BuJo implementation",
+						"category": WORK,
+						"completed": true
+					},
+				]
+			},
+			{
+				"day": THURSDAY,
+				"essential-parts": [
+					{
+						"title": "Bujo Demo",
+						"description": "Demonstrating the final OOD project",
+						"category": SCHOOL,
+						"start-time": 1140,
+						"duration": 100
+					},
+					{
+						"title": "Lunch",
+						"description": "Lunch with my friends",
+						"category": SOCIAL,
+						"start-time": 220,
+						"duration": 30
+					},
+				]
+			},
+			{
+				"day": FRIDAY,
+				"essential-parts": [
+					{
+						"title": "Final Exam",
+						"description": "Final Exam for Music",
+						"category": SCHOOL,
+						"completed": false
+					},
+				]
+			},
+			{
+				"day": SATURDAY,
+				"essential-parts": [
+				]
+			},
+			{
+				"day": SUNDAY,
+				"essential-parts": [
+				]
+			},
+		],
+		"quotes-and-notes": [
+			{
+				"quote": "Have a good day!",
+				"author": "Me"
+			},
+			{
+				"note": "It's officially summer!!"
+			},
+		]
+	}
+}

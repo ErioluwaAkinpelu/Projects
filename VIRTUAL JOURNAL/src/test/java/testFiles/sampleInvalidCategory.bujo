@@ -1,0 +1,96 @@
+{
+	"journal": {
+		"title": "Sample",
+		"theme": CUSTOM,
+		"custom-theme-param": {
+			"bgColor": "123456",
+			"textColor": "987654",
+			"textFont": "Comic Sans MS"
+		},
+		"max-event": 3,
+		"max-task": 4,
+		"start-of-week": MONDAY,
+		"days": [
+			{
+				"day": MONDAY,
+				"essential-parts": [
+					{
+						"title": "PA05",
+						"description": "The Bullet Journal assignment for OOD",
+						"category": SCHOOL,
+						"completed": true
+					},
+					{
+						"title": "Starbucks Shift",
+						"description": "My daily shift at Starbucks",
+						"category": error,
+						"start-time": 230,
+						"duration": 60
+					},
+					{
+						"title": "Lunch",
+						"description": "Lunch on Centennial Commons",
+						"category": SOCIAL,
+						"start-time": 550,
+						"duration": 12
+					},
+					{
+						"title": "Office Hours",
+						"description": "TA Office Hours for Fundies",
+						"category": NONE,
+						"completed": false
+					},
+				]
+			},
+			{
+				"day": TUESDAY,
+				"essential-parts": [
+					{
+						"title": "title",
+						"description": "description",
+						"category": SOCIAL,
+						"completed": false
+					},
+				]
+			},
+			{
+				"day": WEDNESDAY,
+				"essential-parts": [
+				]
+			},
+			{
+				"day": THURSDAY,
+				"essential-parts": [
+				]
+			},
+			{
+				"day": FRIDAY,
+				"essential-parts": [
+				]
+			},
+			{
+				"day": SATURDAY,
+				"essential-parts": [
+				]
+			},
+			{
+				"day": SUNDAY,
+				"essential-parts": [
+				]
+			},
+		],
+		"quotes-and-notes": [
+			{
+				"quote": "It was the best of times, it was the worst of times",
+				"author": "H. G. Wells"
+			},
+			{
+				"note": "Noted"
+			},
+			{
+				"quote": "Hello, there!",
+				"author": ""
+			},
+		]
+	}
+}

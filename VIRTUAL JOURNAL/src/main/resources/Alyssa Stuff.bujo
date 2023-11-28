@@ -1,0 +1,53 @@
+{
+	"journal": {
+		"title": "Alyssa's Week",
+		"theme": CUSTOM,
+		"custom-theme-param": {
+			"bgColor": "203576",
+			"textColor": "263349",
+			"textFont": "Chalkboard SE Light"
+		},
+		"max-event": 10,
+		"max-task": 10,
+		"start-of-week": MONDAY,
+		"days": [
+			{
+				"day": MONDAY,
+				"essential-parts": [
+				]
+			},
+			{
+				"day": TUESDAY,
+				"essential-parts": [
+				]
+			},
+			{
+				"day": WEDNESDAY,
+				"essential-parts": [
+				]
+			},
+			{
+				"day": THURSDAY,
+				"essential-parts": [
+				]
+			},
+			{
+				"day": FRIDAY,
+				"essential-parts": [
+				]
+			},
+			{
+				"day": SATURDAY,
+				"essential-parts": [
+				]
+			},
+			{
+				"day": SUNDAY,
+				"essential-parts": [
+				]
+			},
+		],
+		"quotes-and-notes": [
+		]
+	}
+}

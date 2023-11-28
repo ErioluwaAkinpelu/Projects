@@ -1,0 +1,83 @@
+{
+	"journal": {
+		"title": "Left to Do",
+		"theme": CUSTOM,
+		"custom-theme-param": {
+			"bgColor": "c6fff5",
+			"textColor": "e50fff",
+			"textFont": "Cooper Black"
+		},
+		"max-event": 10,
+		"max-task": 10,
+		"start-of-week": SUNDAY,
+		"days": [
+			{
+				"day": SUNDAY,
+				"essential-parts": [
+				]
+			},
+			{
+				"day": MONDAY,
+				"essential-parts": [
+				]
+			},
+			{
+				"day": TUESDAY,
+				"essential-parts": [
+				]
+			},
+			{
+				"day": WEDNESDAY,
+				"essential-parts": [
+					{
+						"title": "Open File Screen",
+						"description": "Screen for opening file",
+						"category": NONE,
+						"completed": true
+					},
+					{
+						"title": "Week Start",
+						"description": "Implement starting week on Sunday or Monday",
+						"category": NONE,
+						"completed": true
+					},
+					{
+						"title": "Splash Screen",
+						"description": "Implement Splash Screen to controller",
+						"category": NONE,
+						"completed": true
+					},
+					{
+						"title": "Privacy Lock",
+						"description": "Implement privacy lock to controller",
+						"category": NONE,
+						"completed": true
+					},
+					{
+						"title": "Starters",
+						"description": "Allow user to make new files with template noArgs.bujo and set the name",
+						"category": NONE,
+						"completed": true
+					},
+				]
+			},
+			{
+				"day": THURSDAY,
+				"essential-parts": [
+				]
+			},
+			{
+				"day": FRIDAY,
+				"essential-parts": [
+				]
+			},
+			{
+				"day": SATURDAY,
+				"essential-parts": [
+				]
+			},
+		],
+		"quotes-and-notes": [
+		]
+	}
+}

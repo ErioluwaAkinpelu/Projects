@@ -1,0 +1,104 @@
+{
+	"journal": {
+		"title": "Demo",
+		"theme": CUSTOM,
+		"custom-theme-param": {
+			"bgColor": "45d19f",
+			"textColor": "252622",
+			"textFont": "Myanmar Text"
+		},
+		"max-event": 2,
+		"max-task": 4,
+		"start-of-week": MONDAY,
+		"days": [
+			{
+				"day": MONDAY,
+				"essential-parts": [
+					{
+						"title": "Starbucks Shift",
+						"description": "My daily shift at Starbucks",
+						"category": WORK,
+						"start-time": 230,
+						"duration": 60
+					},
+					{
+						"title": "Lunch",
+						"description": "Lunch on Centennial Commons",
+						"category": SOCIAL,
+						"start-time": 550,
+						"duration": 12
+					},
+					{
+						"title": "Office Hours",
+						"description": "TA Office Hours for Fundies",
+						"category": NONE,
+						"completed": true
+					},
+				]
+			},
+			{
+				"day": TUESDAY,
+				"essential-parts": [
+					{
+						"title": "title",
+						"description": "description",
+						"category": SOCIAL,
+						"completed": false
+					},
+				]
+			},
+			{
+				"day": WEDNESDAY,
+				"essential-parts": [
+				]
+			},
+			{
+				"day": THURSDAY,
+				"essential-parts": [
+					{
+						"title": "OOD Demonstration",
+						"description": "Showing off our excellent BuJo",
+						"category": SCHOOL,
+						"start-time": 1130,
+						"duration": 10
+					},
+					{
+						"title": "qwe",
+						"description": "",
+						"category": NONE,
+						"start-time": 123,
+						"duration": 123
+					},
+				]
+			},
+			{
+				"day": FRIDAY,
+				"essential-parts": [
+				]
+			},
+			{
+				"day": SATURDAY,
+				"essential-parts": [
+				]
+			},
+			{
+				"day": SUNDAY,
+				"essential-parts": [
+				]
+			},
+		],
+		"quotes-and-notes": [
+			{
+				"quote": "It was the best of times, it was the worst of times",
+				"author": "H. G. Wells"
+			},
+			{
+				"note": "Noted"
+			},
+			{
+				"quote": "Hello, there!",
+				"author": ""
+			},
+		]
+	}
+}
